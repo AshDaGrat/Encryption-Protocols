@@ -1,4 +1,4 @@
-# BB84-QKD-Protocol
+# BB84-QKD-Protocol Simulation
 
 # What is QKD?
 
